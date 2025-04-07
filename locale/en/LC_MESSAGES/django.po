@@ -1,0 +1,83 @@
+msgid "Welcome"
+msgstr "Xush kelibsiz"
+
+msgid "Hello, welcome to our site!"
+msgstr "Salom, saytimizga xush kelibsiz!"
+
+msgid "O'zbekcha"
+msgstr "O'zbekcha"
+
+msgid "English"
+msgstr "Inglizcha"
+
+msgid "Messages"
+msgstr "Xabarlar"
+
+msgid "Site Maps"
+msgstr "Sayt xaritalari"
+
+msgid "Static Files"
+msgstr "Statik fayllar"
+
+msgid "Syndication"
+msgstr "Obuna"
+
+msgid "…"
+msgstr "…"
+
+msgid "That page number is not an integer"
+msgstr "Sahifa raqami butun son bo‘lishi kerak"
+
+msgid "That page number is less than 1"
+msgstr "Sahifa raqami 1 dan katta bo‘lishi kerak"
+
+msgid "That page contains no results"
+msgstr "Bu sahifada natijalar topilmadi"
+
+msgid "Enter a valid value."
+msgstr "To‘g‘ri qiymat kiriting."
+
+msgid "Enter a valid domain name."
+msgstr "To‘g‘ri domen nomini kiriting."
+
+msgid "Enter a valid URL."
+msgstr "To‘g‘ri URL manzilini kiriting."
+
+msgid "Enter a valid integer."
+msgstr "To‘g‘ri butun son kiriting."
+
+msgid "Enter a valid email address."
+msgstr "To‘g‘ri elektron pochta manzilini kiriting."
+
+msgid "Enter a valid “slug” consisting of letters, numbers, underscores or hyphens."
+msgstr "Harf, raqam, pastki chiziq yoki tirelardan iborat to‘g‘ri 'slug' kiriting."
+
+msgid "Enter a valid “slug” consisting of Unicode letters, numbers, underscores, or hyphens."
+msgstr "Unicode harflar, raqamlar, pastki chiziq yoki tirelardan iborat to‘g‘ri 'slug' kiriting."
+
+msgid "Enter a valid %(protocol)s address."
+msgstr "To‘g‘ri %(protocol)s manzilini kiriting."
+
+msgid "IPv4"
+msgstr "IPv4"
+
+msgid "IPv6"
+msgstr "IPv6"
+
+msgid "IPv4 or IPv6"
+msgstr "IPv4 yoki IPv6"
+
+msgid "Enter only digits separated by commas."
+msgstr "Faqat vergul bilan ajratilgan raqamlarni kiriting."
+
+msgid "Ensure this value is %(limit_value)s (it is %(show_value)s)."
+msgstr "Qiymat %(limit_value)s bo‘lishi kerak (hozirgi qiymat: %(show_value)s)."
+
+msgid "Ensure this value is less than or equal to %(limit_value)s."
+msgstr "Qiymat %(limit_value)s dan kam yoki teng bo‘lishi kerak."
+
+msgid "Ensure this value is greater than or equal to %(limit_value)s."
+msgstr "Qiymat %(limit_value)s dan katta yoki teng bo‘lishi kerak."
+
+msgid "Ensure this value is a multiple of step size %(limit_value)s."
+msgstr "Qiymat %(limit_value)s ga karrali bo‘lishi kerak."

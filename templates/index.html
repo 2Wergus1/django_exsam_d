@@ -1,0 +1,19 @@
+{% load i18n %}
+
+<!DOCTYPE html>
+<html lang="{{ LANGUAGE_CODE }}">
+<head>
+    <meta charset="UTF-8">
+    <title>{% trans "Welcome" %}</title>
+</head>
+<body>
+    <h1>{% trans "Hello, welcome to our site!" %}</h1>
+    
+    <form method="get" action="{% url 'change_language' 'uz' %}">
+        <button type="submit">{% trans "O'zbekcha" %}</button>
+    </form>
+    <form method="get" action="{% url 'change_language' 'en' %}">
+        <button type="submit">{% trans "English" %}</button>
+    </form>
+</body>
+</html>
